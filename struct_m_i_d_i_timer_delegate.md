@@ -1,0 +1,7 @@
+# MIDITimerDelegate #
+
+```
+
+struct MIDITimerDelegate;
+```
+
